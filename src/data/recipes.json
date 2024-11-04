@@ -1,0 +1,451 @@
+[
+  {
+    "id": 1,
+    "titulo": "Lasanha à Bolonhesa",
+    "descricao": "Uma deliciosa lasanha com molho bolonhesa, queijo e presunto.",
+    "ingredientes": [
+      {
+        "nome": "Massa de lasanha",
+        "quantidade": "500g"
+      },
+      {
+        "nome": "Carne moída",
+        "quantidade": "300g"
+      },
+      {
+        "nome": "Molho de tomate",
+        "quantidade": "2 xícaras"
+      },
+      {
+        "nome": "Queijo muçarela",
+        "quantidade": "300g"
+      },
+      {
+        "nome": "Presunto",
+        "quantidade": "200g"
+      },
+      {
+        "nome": "Cebola",
+        "quantidade": "1 unidade"
+      },
+      {
+        "nome": "Alho",
+        "quantidade": "2 dentes"
+      },
+      {
+        "nome": "Sal",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Pimenta-do-reino",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Óleo",
+        "quantidade": "2 colheres de sopa"
+      }
+    ],
+    "modo_preparo": [
+      "Cozinhe a massa da lasanha em água fervente com sal por cerca de 5 minutos.",
+      "Refogue a cebola e o alho no óleo até dourar, adicione a carne moída e refogue até que fique bem cozida.",
+      "Adicione o molho de tomate, sal e pimenta-do-reino. Deixe cozinhar por 10 minutos.",
+      "Em uma travessa, monte a lasanha alternando camadas de molho, massa, presunto e queijo.",
+      "Leve ao forno pré-aquecido a 180ºC por 20 minutos ou até que o queijo derreta e gratine."
+    ],
+    "tipo": "Massa",
+    "foto": "https://th.bing.com/th/id/OIP.nXXj4613u4O_6zy-h8AwswHaER?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 2,
+    "titulo": "Pavê de Chocolate",
+    "descricao": "Uma sobremesa fácil e rápida, com camadas de biscoito e creme de chocolate.",
+    "ingredientes": [
+      {
+        "nome": "Biscoito maisena",
+        "quantidade": "200g"
+      },
+      {
+        "nome": "Leite condensado",
+        "quantidade": "1 lata"
+      },
+      {
+        "nome": "Leite",
+        "quantidade": "500ml"
+      },
+      {
+        "nome": "Chocolate em pó",
+        "quantidade": "4 colheres de sopa"
+      },
+      {
+        "nome": "Creme de leite",
+        "quantidade": "1 caixa"
+      },
+      {
+        "nome": "Manteiga",
+        "quantidade": "1 colher de sopa"
+      }
+    ],
+    "modo_preparo": [
+      "Em uma panela, misture o leite condensado, o leite, o chocolate em pó e a manteiga. Leve ao fogo médio, mexendo sempre até engrossar.",
+      "Desligue o fogo e adicione o creme de leite, misturando bem até ficar homogêneo.",
+      "Em uma travessa, faça camadas de biscoito maisena e creme de chocolate, alternando entre os dois.",
+      "Leve à geladeira por pelo menos 2 horas antes de servir."
+    ],
+    "tipo": "Sobremesa",
+    "foto": "https://th.bing.com/th/id/OIP._j1UUR9I0uHYmrv19-WDXQHaFk?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 3,
+    "titulo": "Salada de Frango com Abacaxi",
+    "descricao": "Uma refrescante salada de frango com abacaxi e maionese, perfeita para o verão.",
+    "ingredientes": [
+      {
+        "nome": "Peito de frango",
+        "quantidade": "2 unidades"
+      },
+      {
+        "nome": "Abacaxi em cubos",
+        "quantidade": "1 xícara"
+      },
+      {
+        "nome": "Maionese",
+        "quantidade": "1/2 xícara"
+      },
+      {
+        "nome": "Cenoura ralada",
+        "quantidade": "1 unidade"
+      },
+      {
+        "nome": "Milho verde",
+        "quantidade": "1/2 lata"
+      },
+      {
+        "nome": "Sal",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Pimenta-do-reino",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Salsinha",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": [
+      "Cozinhe o peito de frango em água com sal. Depois de cozido, desfie-o e reserve.",
+      "Em uma tigela grande, misture o frango desfiado, o abacaxi, a cenoura ralada e o milho verde.",
+      "Adicione a maionese e misture bem até que todos os ingredientes estejam incorporados.",
+      "Tempere com sal, pimenta-do-reino e salsinha a gosto.",
+      "Leve à geladeira por 30 minutos antes de servir."
+    ],
+    "tipo": "Salada",
+    "foto": "https://th.bing.com/th/id/R.cdde5dc3c326b9cfac91a2c06e3f7915?rik=4rOk3TWStKll%2fA&riu=http%3a%2f%2fwww.saboresajinomoto.com.br%2fuploads%2fimages%2frecipes%2fsalada-de-frango-refrescante.jpg&ehk=ej06GFv5zwMYXtLYtkRd5v8RzZGLwZEND5GXHkKsKeE%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 4,
+    "titulo": "Bolo de Cenoura com Cobertura de Chocolate",
+    "descricao": "Bolo de cenoura fofinho com uma deliciosa cobertura de chocolate.",
+    "ingredientes": [
+      {
+        "nome": "Cenoura",
+        "quantidade": "3 unidades médias"
+      },
+      {
+        "nome": "Óleo",
+        "quantidade": "1/2 xícara"
+      },
+      {
+        "nome": "Ovos",
+        "quantidade": "3 unidades"
+      },
+      {
+        "nome": "Açúcar",
+        "quantidade": "2 xícaras"
+      },
+      {
+        "nome": "Farinha de trigo",
+        "quantidade": "2 e 1/2 xícaras"
+      },
+      {
+        "nome": "Fermento em pó",
+        "quantidade": "1 colher de sopa"
+      },
+      {
+        "nome": "Chocolate em pó",
+        "quantidade": "5 colheres de sopa"
+      },
+      {
+        "nome": "Leite",
+        "quantidade": "1/2 xícara"
+      },
+      {
+        "nome": "Manteiga",
+        "quantidade": "2 colheres de sopa"
+      }
+    ],
+    "modo_preparo": [
+      "No liquidificador, bata as cenouras, o óleo e os ovos até obter uma mistura homogênea.",
+      "Em uma tigela, misture o açúcar e a farinha de trigo. Adicione a mistura de cenoura e mexa bem.",
+      "Adicione o fermento e misture levemente.",
+      "Despeje a massa em uma forma untada e enfarinhada e leve ao forno pré-aquecido a 180ºC por 40 minutos.",
+      "Para a cobertura, misture o chocolate em pó, o leite e a manteiga e leve ao fogo até engrossar. Despeje sobre o bolo ainda quente."
+    ],
+    "tipo": "Bolo",
+    "foto": "https://th.bing.com/th/id/OIP.hZTu8d7ZYlS50GuI5-NCTwHaD4?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 5,
+    "titulo": "Macarrão ao Alho e Óleo",
+    "descricao": "Receita rápida e simples de macarrão ao alho e óleo, perfeita para o dia a dia.",
+    "ingredientes": [
+      {
+        "nome": "Macarrão espaguete",
+        "quantidade": "500g"
+      },
+      {
+        "nome": "Alho",
+        "quantidade": "4 dentes"
+      },
+      {
+        "nome": "Azeite de oliva",
+        "quantidade": "1/2 xícara"
+      },
+      {
+        "nome": "Sal",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Pimenta calabresa",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Salsinha picada",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente. Escorra e reserve.",
+      "Em uma frigideira, aqueça o azeite e doure o alho.",
+      "Adicione o macarrão cozido à frigideira e misture bem para incorporar o alho e o óleo.",
+      "Tempere com sal, pimenta calabresa e salsinha a gosto.",
+      "Sirva imediatamente."
+    ],
+    "tipo": "Massa",
+    "foto": "https://th.bing.com/th/id/R.64ad6d74d1baafc646a74459e1da0479?rik=PhODVfTcjJ7m5w&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 6,
+    "titulo": "Torta de Frango",
+    "descricao": "Uma torta de frango cremosa com massa leve e crocante.",
+    "ingredientes": [
+      {
+        "nome": "Peito de frango desfiado",
+        "quantidade": "500g"
+      },
+      {
+        "nome": "Farinha de trigo",
+        "quantidade": "2 xícaras"
+      },
+      {
+        "nome": "Leite",
+        "quantidade": "1 xícara"
+      },
+      {
+        "nome": "Ovos",
+        "quantidade": "3 unidades"
+      },
+      {
+        "nome": "Óleo",
+        "quantidade": "1/2 xícara"
+      },
+      {
+        "nome": "Fermento em pó",
+        "quantidade": "1 colher de sopa"
+      },
+      {
+        "nome": "Requeijão cremoso",
+        "quantidade": "1 copo"
+      },
+      {
+        "nome": "Sal",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Pimenta-do-reino",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": [
+      "Em uma panela, refogue o frango desfiado com temperos a gosto.",
+      "Bata no liquidificador o leite, ovos, óleo, farinha de trigo e fermento até obter uma massa homogênea.",
+      "Em uma forma untada, despeje metade da massa. Coloque o frango refogado por cima e espalhe o requeijão.",
+      "Cubra com o restante da massa e leve ao forno pré-aquecido a 180ºC por 40 minutos ou até dourar."
+    ],
+    "tipo": "Torta",
+    "foto": "https://th.bing.com/th/id/OIP.qrnTRNt-zNUHIF8GAN-PUwHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 7,
+    "titulo": "Brigadeiro",
+    "descricao": "Doce tradicional brasileiro feito com leite condensado e chocolate.",
+    "ingredientes": [
+      {
+        "nome": "Leite condensado",
+        "quantidade": "1 lata"
+      },
+      {
+        "nome": "Chocolate em pó",
+        "quantidade": "4 colheres de sopa"
+      },
+      {
+        "nome": "Manteiga",
+        "quantidade": "1 colher de sopa"
+      },
+      {
+        "nome": "Chocolate granulado",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": [
+      "Em uma panela, coloque o leite condensado, o chocolate em pó e a manteiga.",
+      "Cozinhe em fogo médio, mexendo sempre, até que o brigadeiro desgrude do fundo da panela.",
+      "Deixe esfriar, faça bolinhas e passe no chocolate granulado.",
+      "Sirva em forminhas ou diretamente."
+    ],
+    "tipo": "Sobremesa",
+    "foto": "https://th.bing.com/th/id/OIP.exw2orl5DxtFvQxTcJKJtQHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 8,
+    "titulo": "Quiche de Espinafre",
+    "descricao": "Quiche com recheio de espinafre e queijo, perfeita para um lanche ou jantar leve.",
+    "ingredientes": [
+      {
+        "nome": "Farinha de trigo",
+        "quantidade": "2 xícaras"
+      },
+      {
+        "nome": "Manteiga",
+        "quantidade": "100g"
+      },
+      {
+        "nome": "Ovos",
+        "quantidade": "3 unidades"
+      },
+      {
+        "nome": "Espinafre",
+        "quantidade": "1 maço"
+      },
+      {
+        "nome": "Creme de leite",
+        "quantidade": "1 caixa"
+      },
+      {
+        "nome": "Queijo ralado",
+        "quantidade": "100g"
+      },
+      {
+        "nome": "Sal",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Pimenta-do-reino",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": [
+      "Misture a farinha de trigo com a manteiga até formar uma massa homogênea. Forre uma forma com essa massa.",
+      "Refogue o espinafre e reserve.",
+      "Em uma tigela, misture os ovos, creme de leite, queijo ralado, sal e pimenta.",
+      "Adicione o espinafre refogado e misture bem. Despeje o recheio sobre a massa.",
+      "Leve ao forno pré-aquecido a 180ºC por 30 minutos ou até dourar."
+    ],
+    "tipo": "Quiche",
+    "foto": "https://th.bing.com/th/id/OIP.AGRoHbTivNwIAV0IajV9dwHaE7?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 9,
+    "titulo": "Panqueca de Carne Moída",
+    "descricao": "Panquecas recheadas com carne moída e cobertas com molho de tomate e queijo.",
+    "ingredientes": [
+      {
+        "nome": "Leite",
+        "quantidade": "2 xícaras"
+      },
+      {
+        "nome": "Farinha de trigo",
+        "quantidade": "1 xícara"
+      },
+      {
+        "nome": "Ovos",
+        "quantidade": "2 unidades"
+      },
+      {
+        "nome": "Carne moída",
+        "quantidade": "300g"
+      },
+      {
+        "nome": "Cebola",
+        "quantidade": "1 unidade"
+      },
+      {
+        "nome": "Molho de tomate",
+        "quantidade": "2 xícaras"
+      },
+      {
+        "nome": "Queijo ralado",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Sal",
+        "quantidade": "a gosto"
+      },
+      {
+        "nome": "Óleo",
+        "quantidade": "2 colheres de sopa"
+      }
+    ],
+    "modo_preparo": [
+      "Bata no liquidificador o leite, ovos e a farinha até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente e despeje pequenas porções da massa, cozinhando até dourar dos dois lados.",
+      "Refogue a carne moída com a cebola e temperos a gosto.",
+      "Recheie as panquecas com a carne moída e enrole-as.",
+      "Cubra com o molho de tomate e polvilhe queijo ralado. Leve ao forno para gratinar por 10 minutos."
+    ],
+    "tipo": "Massa",
+    "foto": "https://th.bing.com/th/id/R.0882c7be8264661cfe96aa3feb6eef4c?rik=mH7DiXCvGkGmeQ&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 10,
+    "titulo": "Pudim de Leite Condensado",
+    "descricao": "Sobremesa clássica feita com leite condensado e ovos, coberta com calda de caramelo.",
+    "ingredientes": [
+      {
+        "nome": "Leite condensado",
+        "quantidade": "1 lata"
+      },
+      {
+        "nome": "Leite",
+        "quantidade": "2 medidas da lata de leite condensado"
+      },
+      {
+        "nome": "Ovos",
+        "quantidade": "3 unidades"
+      },
+      {
+        "nome": "Açúcar",
+        "quantidade": "1 xícara para a calda"
+      }
+    ],
+    "modo_preparo": [
+      "Derreta o açúcar em uma panela até formar um caramelo dourado. Espalhe o caramelo em uma forma de pudim e reserve.",
+      "Bata no liquidificador o leite condensado, o leite e os ovos até ficar homogêneo.",
+      "Despeje a mistura na forma caramelizada.",
+      "Asse em banho-maria no forno pré-aquecido a 180ºC por aproximadamente 1 hora.",
+      "Deixe esfriar, desenforme e sirva gelado."
+    ],
+    "tipo": "Sobremesa",
+    "foto": "https://www.guiadasemana.com.br/contentFiles/image/2021/05/FEA/67190_shutterstock-781203586.jpg"
+  }
+]
