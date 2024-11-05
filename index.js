@@ -27,19 +27,19 @@ server.get("/recipes/:id", (req, res) => {
 
 // Rota para criar uma nova receita
 server.post("/recipes", (req, res) => {
-  const { titulo, descricao, ingredientes, modo_preparo, tipo, foto } =
+  const { title, description, ingredients, preparation, type, photo } =
     req.body;
 
   console.log("Dados recebidos:", req.body);
 
   // Verificar se todos os campos obrigatórios foram preenchidos
   if (
-    !titulo ||
-    !descricao ||
-    !ingredientes ||
-    !modo_preparo ||
-    !tipo ||
-    !foto
+    !title ||
+    !description ||
+    !ingredients ||
+    !preparation ||
+    !type ||
+    !photo
   ) {
     return res.status(400).send("Todos os campos são obrigatórios");
   }
@@ -47,12 +47,12 @@ server.post("/recipes", (req, res) => {
   // Criar a nova receita
   const newRecipe = {
     id: recipes.length + 1,
-    titulo,
-    descricao,
-    ingredientes,
-    modo_preparo,
-    tipo,
-    foto,
+    title,
+    description,
+    ingredients,
+    preparation,
+    type,
+    photo,
   };
 
   // Adicionar a nova receita ao array de receitas
